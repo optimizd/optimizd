@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Andy
 
-<!--
-**optimizd/optimizd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder at [Instructionly](https://instructionly.io) — One rulebook for every AI
 
-Here are some ideas to get you started:
+18+ years in software engineering, 6 leading teams. Now making sure AI follows your team's playbook.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I'm building
+
+AI assistants are powerful, but without guidance they produce inconsistent code. Teams lose knowledge between sessions and waste time correcting the same mistakes.
+
+The workaround? Dumping huge instruction files into every prompt—bloating context and burning tokens.
+
+Instructionly fixes this—we let teams centralize coding standards and deliver them on-demand to any AI tool. Works with Claude, Cursor, Windsurf, ChatGPT, and anything supporting MCP.
+
+---
+
+[Website](https://instructionly.io) · [Blog](https://blog.instructionly.io) · [Docs](https://docs.instructionly.io)
